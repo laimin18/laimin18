@@ -1,11 +1,12 @@
 ### Hi there 👋 I am Min, a full stack developer
 
-🌱 Master of Software Engineering @ UC Irvine  
+🌱 Master of Software Engineering @ UC Irvine 
+🏢 Computer Programmer Intern @ BNP Media 
 🏢 Full Stack Intern @ MiMin Tech  
 🏢 Software Engineer @ Yahoo  
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,redux,graphql,nestjs,nextjs,nodejs,postgres,mysql,sqlite,postman,prisma,kotlin,py,flask,npm,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,redux,graphql,nestjs,nextjs,nodejs,postgres,mysql,sqlite,postman,prisma,kotlin,py,flask,npm,github)](https://skillicons.dev)
 
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laimin18&theme=dark&background=000000)](https://git.io/streak-stats)  
