@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Min, a full stack developer
 
-🌱 Master of Software Engineering @ UC Irvine 
-🏢 Computer Programmer Intern @ BNP Media 
+🌱 Master of Software Engineering @ UC Irvine  
+🏢 Computer Programmer Intern @ BNP Media  
 🏢 Full Stack Intern @ MiMin Tech  
 🏢 Software Engineer @ Yahoo  
 
